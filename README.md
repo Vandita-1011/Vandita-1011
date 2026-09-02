@@ -127,8 +127,6 @@ currently   : Engineering LLM-powered agents that reason, retrieve, and explain
 <div align="center">
 <img src="./profile/stats.svg" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=Vandita-1011&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vandita-1011&theme=radical&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff"/>
 </div>
 
 ---
